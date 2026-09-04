@@ -1,0 +1,58 @@
+about:
+  description: Kubebuilder - SDK for building Kubernetes APIs using CRDs
+  license: Apache-2.0
+  homepage: http://book.kubebuilder.io
+  head: b2d117d
+  archived: false
+  latestVersion: v4.15.0
+  collectedAt: 2026-09-04T03:30:20Z
+timeline:
+  created: 2018-03-14
+  lastCommit: 2026-09-03
+  lastRelease: 2026-06-15
+popularity:
+  star: 9302
+  watcher: 98
+  fork: 1699
+  release: 87
+  contributor: 839
+  pullRequest: 769
+  issue: 1833
+language:
+  Go: 2776645
+  Shell: 27623
+  Makefile: 11900
+totalLine: 2816168
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 41
+    openPR: 12
+    closedIssue: 6
+    openIssue: 6
+    commit: 35
+  last90d:
+    since: 2026-06-06
+    release: 1
+    mergedPR: 162
+    openPR: 25
+    closedIssue: 53
+    openIssue: 21
+    commit: 173
+  last180d:
+    since: 2026-03-08
+    release: 3
+    mergedPR: 301
+    openPR: 32
+    closedIssue: 80
+    openIssue: 24
+    commit: 324
+  last360d:
+    since: 2025-09-09
+    release: 10
+    mergedPR: 582
+    openPR: 33
+    closedIssue: 153
+    openIssue: 31
+    commit: 603
