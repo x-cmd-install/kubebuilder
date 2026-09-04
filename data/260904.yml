@@ -7,13 +7,13 @@ about:
   head: 9f806d2
   archived: false
   latestVersion: v4.15.0
-  collectedAt: 2026-09-04T19:20:31Z
+  collectedAt: 2026-09-04T21:13:17Z
 timeline:
   created: 2018-03-14
   lastCommit: 2026-09-04
   lastRelease: 2026-06-15
 popularity:
-  star: 9302
+  star: 9303
   watcher: 98
   fork: 1699
   release: 87
@@ -82,6 +82,84 @@ total:
   openIssue: 38
   commit: 5937
 ---
+path: /home/runner/.x-repo/github.com/kubernetes-sigs/kubebuilder
+collectedAt: 2026-09-04T21:13:20Z
+loc:
+  Go:
+    code: 82693
+    comments: 22903
+    blanks: 16382
+    files: 675
+  Yaml:
+    code: 57771
+    comments: 2155
+    blanks: 452
+    files: 426
+  Json:
+    code: 2408
+    comments: 0
+    blanks: 0
+    files: 4
+  Makefile:
+    code: 1361
+    comments: 400
+    blanks: 385
+    files: 8
+  Sh:
+    code: 619
+    comments: 470
+    blanks: 199
+    files: 22
+  Css:
+    code: 370
+    comments: 54
+    blanks: 60
+    files: 3
+  Handlebars:
+    code: 310
+    comments: 16
+    blanks: 41
+    files: 1
+  Pan:
+    code: 236
+    comments: 0
+    blanks: 16
+    files: 4
+  Svg:
+    code: 117
+    comments: 0
+    blanks: 0
+    files: 6
+  Toml:
+    code: 109
+    comments: 19
+    blanks: 23
+    files: 2
+  Dockerfile:
+    code: 90
+    comments: 78
+    blanks: 30
+    files: 6
+  JavaScript:
+    code: 31
+    comments: 2
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 11771
+    blanks: 5315
+    files: 143
+  Text:
+    code: 0
+    comments: 108
+    blanks: 42
+    files: 10
+total:
+  code: 149492
+  comments: 38837
+  blanks: 23321
+  files: 1311
 ---
 date: "2026-09-04T15:28:12Z"
 repo:
