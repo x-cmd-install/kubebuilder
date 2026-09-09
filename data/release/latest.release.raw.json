@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1250,
       "digest": "sha256:296512796895d1ba6edf2bc735550e369d36736abe9fc0ef18f286ee88c2096b",
-      "download_count": 960,
+      "download_count": 979,
       "created_at": "2026-06-15T08:28:32Z",
       "updated_at": "2026-06-15T08:28:32Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.15.0/checksums.txt"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 18862896,
       "digest": "sha256:c1e2fd86b7e2e392cd26b77a72bb9665511435ecdeefb16712820ba5da3e666b",
-      "download_count": 249,
+      "download_count": 251,
       "created_at": "2026-06-15T08:28:31Z",
       "updated_at": "2026-06-15T08:28:32Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.15.0/kubebuilder_darwin_amd64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 17651666,
       "digest": "sha256:8a8b2806c352f3e0749d315ecea91a352b2ce9321af927fca823a1604bd3530a",
-      "download_count": 1768,
+      "download_count": 1792,
       "created_at": "2026-06-15T08:28:29Z",
       "updated_at": "2026-06-15T08:28:30Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.15.0/kubebuilder_darwin_arm64"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 18313378,
       "digest": "sha256:9632ba818c35e10d9664f19090972ee5d667bdffbf4b83c34e8374c5e846afa2",
-      "download_count": 85248,
+      "download_count": 86287,
       "created_at": "2026-06-15T08:28:31Z",
       "updated_at": "2026-06-15T08:28:32Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.15.0/kubebuilder_linux_amd64"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 17039522,
       "digest": "sha256:bd99723fc106502f64a3541b9c5b7079bc68961a76df4f465893e311b594d295",
-      "download_count": 2508,
+      "download_count": 2533,
       "created_at": "2026-06-15T08:28:29Z",
       "updated_at": "2026-06-15T08:28:30Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.15.0/kubebuilder_linux_arm64"
