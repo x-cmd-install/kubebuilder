@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.16.0"
   latestRelease: "v4.16.0"
   latestPrerelease: "v3.0.0-beta.1"
-  collectedAt: 2026-09-10T20:49:41Z
+  collectedAt: 2026-09-10T22:56:29Z
 timeline:
   created: 2018-03-14
   lastCommit: 2026-09-10
@@ -85,7 +85,7 @@ total:
   commit: 5956
 ---
 path: /home/runner/.x-repo/github.com/kubernetes-sigs/kubebuilder
-collectedAt: 2026-09-10T20:49:49Z
+collectedAt: 2026-09-10T22:56:36Z
 loc:
   Go:
     code: 83671
