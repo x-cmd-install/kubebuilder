@@ -1,0 +1,531 @@
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.11.0
+  origversion: 4.11.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.10.1
+  origversion: 4.10.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.10.0
+  origversion: 4.10.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: aur
+  srcname: kubebuilder
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.15.0
+  origversion: 4.15.0-1
+  status: outdated
+  summary: SDK for building Kubernetes APIs
+  maintainers:
+    - vianney@aur
+  licenses:
+    - Apache
+- repo: aur
+  srcname: kubebuilder-bin
+  binname: kubebuilder-bin
+  visiblename: kubebuilder-bin
+  version: 4.15.0
+  origversion: 4.15.0-1
+  status: outdated
+  summary: SDK for building Kubernetes APIs
+  maintainers:
+    - vianney@aur
+    - voltbit@aur
+  licenses:
+    - Apache
+- repo: aur
+  srcname: kubebuilder-git
+  binname: kubebuilder-git
+  visiblename: kubebuilder-git
+  version: 4.10.1.r99.g013481333
+  origversion: 4.10.1.r99.g013481333-1
+  status: rolling
+  summary: SDK for building Kubernetes APIs
+  maintainers:
+    - vianney@aur
+  licenses:
+    - Apache
+- repo: homebrew
+  srcname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.16.0
+  origversion: null
+  status: newest
+  summary: SDK for building Kubernetes APIs using CRDs
+- repo: homebrew
+  srcname: kubebuilder
+  visiblename: kubebuilder
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: SDK for building Kubernetes APIs using CRDs
+- repo: nix_stable_24_05
+  srcname: kubebuilder
+  visiblename: kubebuilder
+  version: 3.15.0
+  origversion: null
+  status: outdated
+  summary: SDK for building Kubernetes APIs using CRDs
+  maintainers:
+    - nix@cmars.tech
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.3.0
+  origversion: null
+  status: outdated
+  summary: SDK for building Kubernetes APIs using CRDs
+  maintainers:
+    - nix@cmars.tech
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.5.1
+  origversion: null
+  status: outdated
+  summary: SDK for building Kubernetes APIs using CRDs
+  maintainers:
+    - nix@cmars.tech
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.10.1
+  origversion: null
+  status: outdated
+  summary: SDK for building Kubernetes APIs using CRDs
+  maintainers:
+    - nix@cmars.tech
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.13.1
+  origversion: null
+  status: outdated
+  summary: SDK for building Kubernetes APIs using CRDs
+  maintainers:
+    - nix@cmars.tech
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.15.0
+  origversion: null
+  status: outdated
+  summary: SDK for building Kubernetes APIs using CRDs
+  maintainers:
+    - hythera@github
+  licenses:
+    - Apache-2.0
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.15.0
+  origversion: 4.15.0-1~ops2deb
+  status: outdated
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.14.0
+  origversion: 4.14.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.13.1
+  origversion: 4.13.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.13.0
+  origversion: 4.13.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.12.0
+  origversion: 4.12.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.11.1
+  origversion: 4.11.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.9.0
+  origversion: 4.9.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.8.0
+  origversion: 4.8.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.7.1
+  origversion: 4.7.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.7.0
+  origversion: 4.7.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.6.0
+  origversion: 4.6.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.5.2
+  origversion: 4.5.2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.5.1
+  origversion: 4.5.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.5.0
+  origversion: 4.5.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.4.0
+  origversion: 4.4.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.3.1
+  origversion: 4.3.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.3.0
+  origversion: 4.3.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.2.0
+  origversion: 4.2.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.1.1
+  origversion: 4.1.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.1.0
+  origversion: 4.1.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 4.0.0
+  origversion: 4.0.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 3.15.1
+  origversion: 3.15.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 3.15.0
+  origversion: 3.15.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 3.14.2
+  origversion: 3.14.2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 3.14.1
+  origversion: 3.14.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 3.14.0
+  origversion: 3.14.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 3.13.0
+  origversion: 3.13.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 3.12.0
+  origversion: 3.12.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 3.11.1
+  origversion: 3.11.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 3.11.0
+  origversion: 3.11.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 3.10.0
+  origversion: 3.10.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 3.9.1
+  origversion: 3.9.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 3.9.0
+  origversion: 3.9.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 3.8.0
+  origversion: 3.8.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 3.7.0
+  origversion: 3.7.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 3.6.0
+  origversion: 3.6.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 3.5.0
+  origversion: 3.5.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 3.4.1
+  origversion: 3.4.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 3.4.0
+  origversion: 3.4.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 3.3.0
+  origversion: 3.3.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 3.2.0
+  origversion: 3.2.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 3.1.0
+  origversion: 3.1.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: dev
+  binname: kubebuilder
+  visiblename: kubebuilder
+  version: 3.0.0
+  origversion: 3.0.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
