@@ -4,7 +4,7 @@
 
 Kubebuilder - SDK for building Kubernetes APIs using CRDs
 
-![kubebuilder](https://repo.x-cmd.io/kubebuilder.svg)
+![kubebuilder](https://repo.x-cmd.io/kubebuilder.svg?lang=zh)
 
 ## 安装
 
@@ -12,42 +12,13 @@ Kubebuilder - SDK for building Kubernetes APIs using CRDs
 x install kubebuilder
 ```
 
-## 源代码
-
-- **上游仓库**: <https://github.com/kubernetes-sigs/kubebuilder>
-- **官网**: <http://book.kubebuilder.io>
-- **许可证**: Apache-2.0
-
-## 发布
-
-- **最新版本**: `v4.15.0` (2026-06-15)
-- **最近提交**: 2026-09-09
-- **Release 含资产**: 13 个
-- **发布时间**: 2026-06-15T08:25:53Z
-
-## 流行度
-
-- **Star**: 9,309 · **Fork**: 1,701 · **开放 issue**: 1,837 · **贡献者**: 840
-
-## 累计统计
-
-- **发布数**: 87 · **已合并 PR**: 3196 · **开放 PR**: 30 · **已关闭 issue**: 1803 · **开放 issue**: 34 · **提交数**: 5954
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 39 | 7 | 7 | 5 | 39 |
-| 90d | 2026-06-12 | 1 | 159 | 20 | 50 | 15 | 167 |
-| 360d | 2025-09-15 | 10 | 589 | 29 | 158 | 28 | 609 |
-
 ## 代码规模
 
-合计: **148,855** 行代码（覆盖前 5 种语言、共 **1135** 个文件）。
+合计: **148,834** 行代码（覆盖前 5 种语言、共 **1135** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 83,692 | 23,021 | 16,549 | 675 |
+| Go | 83,671 | 23,021 | 16,549 | 675 |
 | Yaml | 59,511 | 2,182 | 460 | 426 |
 | Json | 2,408 | 0 | 0 | 4 |
 | Makefile | 1,361 | 400 | 385 | 8 |
@@ -60,8 +31,66 @@ x install kubebuilder
 评分最低的几项:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Vulnerabilities** (1/10) — 9 existing vulnerabilities detected
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Fuzzing** (0/10) — project is not fuzzed
+
+## 源代码
+
+- **上游仓库**: <https://github.com/kubernetes-sigs/kubebuilder>
+- **官网**: <http://book.kubebuilder.io>
+- **许可证**: Apache-2.0
+
+## 发布
+
+- **最新版本**: `v4.16.0` (2026-09-10)
+- **最近提交**: 2026-09-10
+- **Release 含资产**: 13 个
+
+## 流行度
+
+- **Star**: 9,310 · **Fork**: 1,702 · **开放 issue**: 1,837 · **贡献者**: 841
+
+## 累计统计
+
+- **发布数**: 88 · **已合并 PR**: 3198 · **开放 PR**: 30 · **已关闭 issue**: 1804 · **开放 issue**: 33 · **提交数**: 5956
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 41 | 7 | 7 | 5 | 40 |
+| last60d | 2026-07-12 | 1 | 101 | 17 | 27 | 10 | 97 |
+| 90d | 2026-06-12 | 2 | 161 | 20 | 51 | 14 | 168 |
+| last180d | 2026-03-14 | 4 | 305 | 28 | 86 | 20 | 327 |
+| 360d | 2025-09-15 | 11 | 591 | 29 | 159 | 27 | 610 |
+| last720d | 2024-09-20 | 21 | 1165 | 30 | 322 | 31 | 2089 |
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/checksums.txt) | 1.2 KiB | `other` |
+| [kubebuilder_4.16.0_darwin_amd64.cyclonedx.sbom.json](https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/kubebuilder_4.16.0_darwin_amd64.cyclonedx.sbom.json) | 26.8 KiB | `native/darwin/x64` |
+| [kubebuilder_4.16.0_darwin_arm64.cyclonedx.sbom.json](https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/kubebuilder_4.16.0_darwin_arm64.cyclonedx.sbom.json) | 26.8 KiB | `native/darwin/arm64` |
+| [kubebuilder_4.16.0_linux_amd64.cyclonedx.sbom.json](https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/kubebuilder_4.16.0_linux_amd64.cyclonedx.sbom.json) | 26.8 KiB | `native/linux/x64` |
+| [kubebuilder_4.16.0_linux_arm64.cyclonedx.sbom.json](https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/kubebuilder_4.16.0_linux_arm64.cyclonedx.sbom.json) | 26.8 KiB | `native/linux/arm64` |
+| [kubebuilder_4.16.0_linux_ppc64le.cyclonedx.sbom.json](https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/kubebuilder_4.16.0_linux_ppc64le.cyclonedx.sbom.json) | 26.9 KiB | `other` |
+| [kubebuilder_4.16.0_linux_s390x.cyclonedx.sbom.json](https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/kubebuilder_4.16.0_linux_s390x.cyclonedx.sbom.json) | 26.8 KiB | `other` |
+| [kubebuilder_darwin_amd64](https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/kubebuilder_darwin_amd64) | 18.1 MiB | `native/darwin/x64` |
+| [kubebuilder_darwin_arm64](https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/kubebuilder_darwin_arm64) | 16.9 MiB | `native/darwin/arm64` |
+| [kubebuilder_linux_amd64](https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/kubebuilder_linux_amd64) | 17.6 MiB | `native/linux/x64` |
+| [kubebuilder_linux_arm64](https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/kubebuilder_linux_arm64) | 16.3 MiB | `native/linux/arm64` |
+| [kubebuilder_linux_ppc64le](https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/kubebuilder_linux_ppc64le) | 17.2 MiB | `other` |
+| [kubebuilder_linux_s390x](https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/kubebuilder_linux_s390x) | 18.1 MiB | `other` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/kubebuilder) 上共有 **57** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**9** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `4.16.0` | ✅ latest |
+| Nix unstable | `4.15.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -72,4 +101,4 @@ kubebuilder 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:12:52Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:49:55Z._
