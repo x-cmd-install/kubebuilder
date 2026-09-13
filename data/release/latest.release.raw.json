@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1250,
       "digest": "sha256:d79f9aa327997f5a25c22decfd41c4f732b357a1f2760545ecb90a8b5bf17b45",
-      "download_count": 26,
+      "download_count": 70,
       "created_at": "2026-09-10T10:28:47Z",
       "updated_at": "2026-09-10T10:28:48Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 27469,
       "digest": "sha256:84059e6bf17b5c86b7d81124b33bf8af8b3bd01e9e6aedbeb2d4d78e0cf00596",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2026-09-10T10:28:46Z",
       "updated_at": "2026-09-10T10:28:46Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/kubebuilder_4.16.0_darwin_amd64.cyclonedx.sbom.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 27471,
       "digest": "sha256:2fc24f31ac464295c08ff3ecebdfc5d0955026647771e421047b490c5dd54d5f",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-10T10:28:46Z",
       "updated_at": "2026-09-10T10:28:46Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/kubebuilder_4.16.0_darwin_arm64.cyclonedx.sbom.json"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 27470,
       "digest": "sha256:d10ee5f2e3ba5938cb1b7846dfe4f3f1cb6f4ec6be68d6a64f8461bd2cb03bd8",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-10T10:28:46Z",
       "updated_at": "2026-09-10T10:28:47Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/kubebuilder_4.16.0_linux_arm64.cyclonedx.sbom.json"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 27528,
       "digest": "sha256:64d68c61512bd7f2d73e2adcc61de23875a222d7a1837f3f6a656385b01199a0",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-10T10:28:47Z",
       "updated_at": "2026-09-10T10:28:47Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/kubebuilder_4.16.0_linux_ppc64le.cyclonedx.sbom.json"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 18958192,
       "digest": "sha256:110d913c131d8eb41000b573d73e62c75777bbddeaea61626ed06d7fecad7ac7",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-09-10T10:28:44Z",
       "updated_at": "2026-09-10T10:28:45Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/kubebuilder_darwin_amd64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 17739426,
       "digest": "sha256:69f5e207cf35193c78546b0e6dccfc42c44b24ceba81d3e22bab453ae118c328",
-      "download_count": 69,
+      "download_count": 88,
       "created_at": "2026-09-10T10:28:44Z",
       "updated_at": "2026-09-10T10:28:45Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/kubebuilder_darwin_arm64"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 18411682,
       "digest": "sha256:539984e58832044f2326b1bb940c1eaf784f1849e65d06d3a4a4a8b5dfac7ca7",
-      "download_count": 975,
+      "download_count": 1367,
       "created_at": "2026-09-10T10:28:44Z",
       "updated_at": "2026-09-10T10:28:46Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/kubebuilder_linux_amd64"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 17105058,
       "digest": "sha256:6833432c8faab62d2ca6b583f32c88b0a3d1b7264562739c202084c996a55845",
-      "download_count": 54,
+      "download_count": 68,
       "created_at": "2026-09-10T10:28:44Z",
       "updated_at": "2026-09-10T10:28:45Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/kubebuilder_linux_arm64"
