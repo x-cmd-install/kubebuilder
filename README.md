@@ -14,11 +14,11 @@ x install kubebuilder
 
 ## Code insight
 
-Total: **148,914** lines of code across **1137** files in the top 5 languages.
+Total: **148,967** lines of code across **1137** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 83,751 | 23,075 | 16,571 | 677 |
+| Go | 83,804 | 23,065 | 16,576 | 677 |
 | Yaml | 59,511 | 2,182 | 460 | 426 |
 | Json | 2,408 | 0 | 0 | 4 |
 | Makefile | 1,361 | 400 | 385 | 8 |
@@ -26,13 +26,13 @@ Total: **148,914** lines of code across **1137** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.6 / 10**
+Overall score: **7.8 / 10**
 
 Lowest-scoring checks:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Vulnerabilities** (1/10) — 9 existing vulnerabilities detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Vulnerabilities** (3/10) — 7 existing vulnerabilities detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.16.0` (2026-09-10)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-14
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 9,312 · **Forks**: 1,702 · **Open issues**: 1,838 · **Contributors**: 841
+- **Stars**: 9,310 · **Forks**: 1,702 · **Open issues**: 1,838 · **Contributors**: 841
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 3199 · **Open PRs**: 33 · **Closed issues**: 1805 · **Open issues**: 33 · **Commits**: 5958
+- **Releases**: 88 · **Merged PRs**: 3202 · **Open PRs**: 37 · **Closed issues**: 1806 · **Open issues**: 32 · **Commits**: 5963
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 1 | 38 | 10 | 8 | 3 | 35 |
-| last60d | 2026-07-16 | 1 | 91 | 19 | 25 | 9 | 84 |
-| 90d | 2026-06-16 | 1 | 153 | 22 | 51 | 14 | 155 |
-| last180d | 2026-03-18 | 4 | 306 | 31 | 85 | 20 | 326 |
-| 360d | 2025-09-19 | 11 | 589 | 32 | 160 | 27 | 605 |
-| last720d | 2024-09-24 | 21 | 1155 | 33 | 320 | 31 | 2073 |
+| 30d | 2026-08-16 | 1 | 41 | 14 | 9 | 2 | 37 |
+| last60d | 2026-07-17 | 1 | 93 | 23 | 25 | 8 | 87 |
+| 90d | 2026-06-17 | 1 | 155 | 26 | 52 | 13 | 158 |
+| last180d | 2026-03-19 | 4 | 308 | 35 | 86 | 19 | 329 |
+| 360d | 2025-09-20 | 11 | 592 | 36 | 161 | 26 | 608 |
+| last720d | 2024-09-25 | 21 | 1158 | 37 | 321 | 30 | 2078 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for kubebuilder lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:26:14Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:31:09Z._
