@@ -4,7 +4,7 @@
 
 Kubebuilder - SDK for building Kubernetes APIs using CRDs
 
-![kubebuilder](https://repo.x-cmd.io/kubebuilder.svg)
+[![x-cmd/install — kubebuilder Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kubebuilder.svg)](https://x-cmd.com/install/kubebuilder)
 
 ## Install
 
@@ -26,12 +26,12 @@ Total: **148,967** lines of code across **1137** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.8 / 10**
+Overall score: **7.7 / 10**
 
 Lowest-scoring checks:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Vulnerabilities** (3/10) — 7 existing vulnerabilities detected
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 - **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,313 · **Forks**: 1,701 · **Open issues**: 1,839 · **Contributors**: 843
+- **Stars**: 9,317 · **Forks**: 1,701 · **Open issues**: 1,839 · **Contributors**: 844
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 35 | 14 | 9 | 3 | 37 |
-| last60d | 2026-07-20 | 1 | 90 | 24 | 24 | 9 | 87 |
-| 90d | 2026-06-20 | 1 | 152 | 27 | 51 | 13 | 158 |
-| last180d | 2026-03-22 | 4 | 308 | 36 | 85 | 20 | 329 |
-| 360d | 2025-09-23 | 10 | 587 | 37 | 161 | 27 | 608 |
-| last720d | 2024-09-28 | 21 | 1157 | 38 | 321 | 31 | 2077 |
+| 30d | 2026-08-21 | 1 | 35 | 14 | 8 | 3 | 37 |
+| last60d | 2026-07-22 | 1 | 82 | 22 | 23 | 9 | 87 |
+| 90d | 2026-06-22 | 1 | 146 | 26 | 50 | 13 | 158 |
+| last180d | 2026-03-24 | 4 | 307 | 36 | 85 | 20 | 329 |
+| 360d | 2025-09-25 | 10 | 585 | 37 | 161 | 27 | 608 |
+| last720d | 2024-09-30 | 21 | 1157 | 38 | 321 | 31 | 2076 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for kubebuilder lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:23:52Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:24:36Z._
