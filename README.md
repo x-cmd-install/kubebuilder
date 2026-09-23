@@ -4,7 +4,7 @@
 
 Kubebuilder - SDK for building Kubernetes APIs using CRDs
 
-[![x-cmd/install — kubebuilder Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kubebuilder.svg)](https://x-cmd.com/install/kubebuilder)
+[![x-cmd/install — kubebuilder Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/kubebuilder.svg)](https://x-cmd.com/install/kubebuilder)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,319 · **Forks**: 1,703 · **Open issues**: 1,839 · **Contributors**: 845
+- **Stars**: 9,320 · **Forks**: 1,703 · **Open issues**: 1,839 · **Contributors**: 845
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 35 | 16 | 9 | 2 | 32 |
-| last60d | 2026-07-24 | 1 | 73 | 24 | 20 | 6 | 69 |
-| 90d | 2026-06-24 | 1 | 142 | 28 | 51 | 12 | 146 |
-| last180d | 2026-03-26 | 3 | 306 | 37 | 85 | 18 | 319 |
-| 360d | 2025-09-27 | 10 | 585 | 39 | 160 | 26 | 606 |
-| last720d | 2024-10-02 | 21 | 1156 | 40 | 319 | 30 | 2073 |
+| 30d | 2026-08-24 | 1 | 31 | 16 | 9 | 2 | 32 |
+| last60d | 2026-07-25 | 1 | 72 | 22 | 20 | 5 | 69 |
+| 90d | 2026-06-25 | 1 | 140 | 28 | 51 | 12 | 146 |
+| last180d | 2026-03-27 | 3 | 303 | 37 | 83 | 18 | 319 |
+| 360d | 2025-09-28 | 10 | 585 | 39 | 160 | 26 | 606 |
+| last720d | 2024-10-03 | 21 | 1155 | 40 | 319 | 30 | 2073 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for kubebuilder lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:26:29Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:33:00Z._

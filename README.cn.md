@@ -4,7 +4,7 @@
 
 Kubebuilder - SDK for building Kubernetes APIs using CRDs
 
-[![x-cmd/install — kubebuilder Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kubebuilder.svg?lang=zh)](https://x-cmd.com/install/kubebuilder)
+[![x-cmd/install — kubebuilder Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/kubebuilder.svg?lang=zh)](https://x-cmd.com/install/kubebuilder)
 
 ## 安装
 
@@ -48,7 +48,7 @@ x install kubebuilder
 
 ## 流行度
 
-- **Star**: 9,319 · **Fork**: 1,703 · **开放 issue**: 1,839 · **贡献者**: 845
+- **Star**: 9,320 · **Fork**: 1,703 · **开放 issue**: 1,839 · **贡献者**: 845
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install kubebuilder
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 35 | 16 | 9 | 2 | 32 |
-| last60d | 2026-07-24 | 1 | 73 | 24 | 20 | 6 | 69 |
-| 90d | 2026-06-24 | 1 | 142 | 28 | 51 | 12 | 146 |
-| last180d | 2026-03-26 | 3 | 306 | 37 | 85 | 18 | 319 |
-| 360d | 2025-09-27 | 10 | 585 | 39 | 160 | 26 | 606 |
-| last720d | 2024-10-02 | 21 | 1156 | 40 | 319 | 30 | 2073 |
+| 30d | 2026-08-24 | 1 | 31 | 16 | 9 | 2 | 32 |
+| last60d | 2026-07-25 | 1 | 72 | 22 | 20 | 5 | 69 |
+| 90d | 2026-06-25 | 1 | 140 | 28 | 51 | 12 | 146 |
+| last180d | 2026-03-27 | 3 | 303 | 37 | 83 | 18 | 319 |
+| 360d | 2025-09-28 | 10 | 585 | 39 | 160 | 26 | 606 |
+| last720d | 2024-10-03 | 21 | 1155 | 40 | 319 | 30 | 2073 |
 
 ## Release 资产
 
@@ -92,4 +92,4 @@ kubebuilder 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:26:29Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:33:00Z._
