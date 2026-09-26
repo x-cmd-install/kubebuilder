@@ -31,7 +31,7 @@ Overall score: **7.7 / 10**
 Lowest-scoring checks:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+- **Vulnerabilities** (2/10) — 8 existing vulnerabilities detected
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 1 | 35 | 11 | 9 | 2 | 37 |
-| last60d | 2026-07-27 | 1 | 75 | 17 | 19 | 5 | 74 |
-| 90d | 2026-06-27 | 1 | 145 | 23 | 51 | 12 | 151 |
-| last180d | 2026-03-29 | 3 | 305 | 32 | 83 | 18 | 324 |
-| 360d | 2025-09-30 | 10 | 591 | 34 | 160 | 26 | 611 |
-| last720d | 2024-10-05 | 21 | 1161 | 35 | 319 | 30 | 2083 |
+| 30d | 2026-08-27 | 1 | 34 | 10 | 8 | 2 | 37 |
+| last60d | 2026-07-28 | 1 | 74 | 16 | 19 | 5 | 74 |
+| 90d | 2026-06-28 | 1 | 143 | 22 | 51 | 12 | 151 |
+| last180d | 2026-03-30 | 3 | 303 | 32 | 82 | 18 | 324 |
+| 360d | 2025-10-01 | 10 | 591 | 34 | 160 | 26 | 611 |
+| last720d | 2024-10-06 | 21 | 1161 | 35 | 319 | 30 | 2083 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for kubebuilder lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:24:08Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:19:33Z._
