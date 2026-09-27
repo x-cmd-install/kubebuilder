@@ -31,8 +31,8 @@ x install kubebuilder
 评分最低的几项:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Vulnerabilities** (2/10) — 8 existing vulnerabilities detected
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Vulnerabilities** (2/10) — 8 existing vulnerabilities detected
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install kubebuilder
 ## 发布
 
 - **最新版本**: `v4.16.0` (2026-09-10)
-- **最近提交**: 2026-09-24
+- **最近提交**: 2026-09-26
 - **Release 含资产**: 13 个
 
 ## 流行度
 
-- **Star**: 9,323 · **Fork**: 1,702 · **开放 issue**: 1,839 · **贡献者**: 848
+- **Star**: 9,323 · **Fork**: 1,702 · **开放 issue**: 1,840 · **贡献者**: 849
 
 ## 累计统计
 
-- **发布数**: 88 · **已合并 PR**: 3208 · **开放 PR**: 35 · **已关闭 issue**: 1807 · **开放 issue**: 32 · **提交数**: 5973
+- **发布数**: 88 · **已合并 PR**: 3211 · **开放 PR**: 32 · **已关闭 issue**: 1807 · **开放 issue**: 33 · **提交数**: 5979
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 1 | 34 | 10 | 8 | 2 | 37 |
-| last60d | 2026-07-28 | 1 | 74 | 16 | 19 | 5 | 74 |
-| 90d | 2026-06-28 | 1 | 143 | 22 | 51 | 12 | 151 |
-| last180d | 2026-03-30 | 3 | 303 | 32 | 82 | 18 | 324 |
-| 360d | 2025-10-01 | 10 | 591 | 34 | 160 | 26 | 611 |
-| last720d | 2024-10-06 | 21 | 1161 | 35 | 319 | 30 | 2083 |
+| 30d | 2026-08-28 | 1 | 35 | 7 | 8 | 3 | 40 |
+| last60d | 2026-07-29 | 1 | 77 | 13 | 19 | 6 | 77 |
+| 90d | 2026-06-29 | 1 | 144 | 19 | 51 | 13 | 154 |
+| last180d | 2026-03-31 | 3 | 303 | 29 | 82 | 19 | 327 |
+| 360d | 2025-10-02 | 10 | 593 | 31 | 160 | 27 | 614 |
+| last720d | 2024-10-07 | 21 | 1162 | 32 | 318 | 31 | 2089 |
 
 ## Release 资产
 
@@ -92,4 +92,4 @@ kubebuilder 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260926.yml` · 2026-09-26T05:19:33Z._
+_数据快照: `data/card/260927.yml` · 2026-09-27T05:48:47Z._
