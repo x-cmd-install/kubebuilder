@@ -31,8 +31,8 @@ x install kubebuilder
 评分最低的几项:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 - **Vulnerabilities** (2/10) — 8 existing vulnerabilities detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install kubebuilder
 ## 发布
 
 - **最新版本**: `v4.16.0` (2026-09-10)
-- **最近提交**: 2026-09-26
+- **最近提交**: 2026-09-28
 - **Release 含资产**: 13 个
 
 ## 流行度
 
-- **Star**: 9,324 · **Fork**: 1,705 · **开放 issue**: 1,843 · **贡献者**: 849
+- **Star**: 9,327 · **Fork**: 1,705 · **开放 issue**: 1,843 · **贡献者**: 848
 
 ## 累计统计
 
-- **发布数**: 88 · **已合并 PR**: 3211 · **开放 PR**: 33 · **已关闭 issue**: 1807 · **开放 issue**: 36 · **提交数**: 5979
+- **发布数**: 88 · **已合并 PR**: 3212 · **开放 PR**: 38 · **已关闭 issue**: 1807 · **开放 issue**: 36 · **提交数**: 5981
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 1 | 34 | 8 | 8 | 5 | 22 |
-| last60d | 2026-07-30 | 1 | 77 | 14 | 18 | 9 | 68 |
-| 90d | 2026-06-30 | 1 | 144 | 20 | 50 | 16 | 136 |
-| last180d | 2026-04-01 | 3 | 301 | 30 | 81 | 22 | 310 |
-| 360d | 2025-10-03 | 10 | 593 | 32 | 160 | 30 | 613 |
-| last720d | 2024-10-08 | 21 | 1162 | 33 | 318 | 34 | 2083 |
+| 30d | 2026-08-30 | 1 | 35 | 12 | 7 | 5 | 23 |
+| last60d | 2026-07-31 | 1 | 74 | 19 | 15 | 9 | 69 |
+| 90d | 2026-07-01 | 1 | 145 | 25 | 49 | 16 | 137 |
+| last180d | 2026-04-02 | 3 | 294 | 35 | 80 | 22 | 311 |
+| 360d | 2025-10-04 | 10 | 594 | 37 | 160 | 30 | 614 |
+| last720d | 2024-10-09 | 21 | 1159 | 38 | 318 | 34 | 2085 |
 
 ## Release 资产
 
@@ -92,4 +92,4 @@ kubebuilder 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260928.yml` · 2026-09-28T05:47:47Z._
+_数据快照: `data/card/260929.yml` · 2026-09-29T06:08:15Z._
