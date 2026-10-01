@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,327 · **Forks**: 1,706 · **Open issues**: 1,843 · **Contributors**: 851
+- **Stars**: 9,328 · **Forks**: 1,705 · **Open issues**: 1,843 · **Contributors**: 851
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 1 | 27 | 14 | 7 | 5 | 23 |
-| last60d | 2026-08-01 | 1 | 72 | 20 | 15 | 9 | 69 |
-| 90d | 2026-07-02 | 1 | 140 | 27 | 45 | 15 | 137 |
-| last180d | 2026-04-03 | 3 | 293 | 37 | 80 | 22 | 311 |
-| 360d | 2025-10-05 | 10 | 593 | 39 | 160 | 30 | 614 |
-| last720d | 2024-10-10 | 21 | 1158 | 40 | 316 | 34 | 2080 |
+| 30d | 2026-09-01 | 1 | 26 | 13 | 6 | 5 | 23 |
+| last60d | 2026-08-02 | 1 | 72 | 20 | 15 | 9 | 69 |
+| 90d | 2026-07-03 | 1 | 138 | 27 | 38 | 14 | 137 |
+| last180d | 2026-04-04 | 3 | 292 | 37 | 80 | 22 | 311 |
+| 360d | 2025-10-06 | 10 | 593 | 39 | 160 | 30 | 614 |
+| last720d | 2024-10-11 | 21 | 1157 | 40 | 316 | 34 | 2080 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for kubebuilder lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:08:04Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:13:09Z._
