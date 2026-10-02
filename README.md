@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.16.0` (2026-09-10)
-- **Last commit**: 2026-09-28
+- **Last commit**: 2026-10-01
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 9,328 · **Forks**: 1,705 · **Open issues**: 1,843 · **Contributors**: 851
+- **Stars**: 9,330 · **Forks**: 1,705 · **Open issues**: 1,844 · **Contributors**: 851
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 3212 · **Open PRs**: 40 · **Closed issues**: 1807 · **Open issues**: 36 · **Commits**: 5981
+- **Releases**: 88 · **Merged PRs**: 3218 · **Open PRs**: 34 · **Closed issues**: 1807 · **Open issues**: 37 · **Commits**: 5993
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 1 | 26 | 13 | 6 | 5 | 23 |
-| last60d | 2026-08-02 | 1 | 72 | 20 | 15 | 9 | 69 |
-| 90d | 2026-07-03 | 1 | 138 | 27 | 38 | 14 | 137 |
-| last180d | 2026-04-04 | 3 | 292 | 37 | 80 | 22 | 311 |
-| 360d | 2025-10-06 | 10 | 593 | 39 | 160 | 30 | 614 |
-| last720d | 2024-10-11 | 21 | 1157 | 40 | 316 | 34 | 2080 |
+| 30d | 2026-09-02 | 1 | 31 | 7 | 6 | 6 | 29 |
+| last60d | 2026-08-03 | 1 | 75 | 14 | 15 | 10 | 75 |
+| 90d | 2026-07-04 | 1 | 141 | 21 | 38 | 15 | 143 |
+| last180d | 2026-04-05 | 3 | 298 | 31 | 80 | 23 | 317 |
+| 360d | 2025-10-07 | 10 | 597 | 33 | 160 | 31 | 620 |
+| last720d | 2024-10-12 | 21 | 1163 | 34 | 316 | 35 | 2086 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for kubebuilder lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:13:09Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:03:42Z._
