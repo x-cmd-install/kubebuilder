@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.16.0` (2026-09-10)
-- **Last commit**: 2026-10-01
+- **Last commit**: 2026-10-02
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 9,330 · **Forks**: 1,705 · **Open issues**: 1,844 · **Contributors**: 851
+- **Stars**: 9,332 · **Forks**: 1,705 · **Open issues**: 1,844 · **Contributors**: 851
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 3218 · **Open PRs**: 34 · **Closed issues**: 1807 · **Open issues**: 37 · **Commits**: 5993
+- **Releases**: 88 · **Merged PRs**: 3221 · **Open PRs**: 34 · **Closed issues**: 1807 · **Open issues**: 37 · **Commits**: 5999
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 1 | 31 | 7 | 6 | 6 | 29 |
-| last60d | 2026-08-03 | 1 | 75 | 14 | 15 | 10 | 75 |
-| 90d | 2026-07-04 | 1 | 141 | 21 | 38 | 15 | 143 |
-| last180d | 2026-04-05 | 3 | 298 | 31 | 80 | 23 | 317 |
-| 360d | 2025-10-07 | 10 | 597 | 33 | 160 | 31 | 620 |
-| last720d | 2024-10-12 | 21 | 1163 | 34 | 316 | 35 | 2086 |
+| 30d | 2026-09-03 | 1 | 32 | 6 | 5 | 6 | 0 |
+| last60d | 2026-08-04 | 1 | 77 | 13 | 14 | 9 | 0 |
+| 90d | 2026-07-05 | 1 | 139 | 21 | 36 | 15 | 0 |
+| last180d | 2026-04-06 | 3 | 299 | 31 | 80 | 23 | 0 |
+| 360d | 2025-10-08 | 10 | 598 | 33 | 160 | 31 | 0 |
+| last720d | 2024-10-13 | 21 | 1166 | 34 | 316 | 35 | 2092 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for kubebuilder lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T06:03:42Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:42:12Z._
