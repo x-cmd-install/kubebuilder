@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,336 · **Forks**: 1,708 · **Open issues**: 1,844 · **Contributors**: 852
+- **Stars**: 9,336 · **Forks**: 1,708 · **Open issues**: 1,844 · **Contributors**: 853
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 3222 · **Open PRs**: 33 · **Closed issues**: 1807 · **Open issues**: 37 · **Commits**: 6001
+- **Releases**: 88 · **Merged PRs**: 3222 · **Open PRs**: 36 · **Closed issues**: 1807 · **Open issues**: 37 · **Commits**: 6001
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 1 | 33 | 5 | 3 | 5 | 21 |
-| last60d | 2026-08-06 | 1 | 71 | 12 | 13 | 9 | 66 |
-| 90d | 2026-07-07 | 1 | 136 | 20 | 33 | 14 | 127 |
-| last180d | 2026-04-08 | 3 | 299 | 30 | 78 | 23 | 298 |
-| 360d | 2025-10-10 | 10 | 598 | 32 | 160 | 31 | 612 |
-| last720d | 2024-10-15 | 21 | 1166 | 33 | 315 | 35 | 2094 |
+| 30d | 2026-09-06 | 1 | 32 | 8 | 3 | 5 | 21 |
+| last60d | 2026-08-07 | 1 | 68 | 13 | 13 | 9 | 66 |
+| 90d | 2026-07-08 | 1 | 130 | 23 | 32 | 14 | 127 |
+| last180d | 2026-04-09 | 3 | 292 | 33 | 76 | 23 | 298 |
+| 360d | 2025-10-11 | 10 | 598 | 35 | 160 | 31 | 612 |
+| last720d | 2024-10-16 | 21 | 1164 | 36 | 315 | 35 | 2094 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for kubebuilder lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T05:58:00Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:46:04Z._
