@@ -26,13 +26,13 @@ x install kubebuilder
 
 ## OpenSSF Scorecard 评分
 
-总评分: **7.7 / 10**
+总评分: **7.6 / 10**
 
 评分最低的几项:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Vulnerabilities** (1/10) — 9 existing vulnerabilities detected
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install kubebuilder
 ## 发布
 
 - **最新版本**: `v4.16.0` (2026-09-10)
-- **最近提交**: 2026-10-03
+- **最近提交**: 2026-10-08
 - **Release 含资产**: 13 个
 
 ## 流行度
 
-- **Star**: 9,340 · **Fork**: 1,707 · **开放 issue**: 1,847 · **贡献者**: 856
+- **Star**: 9,344 · **Fork**: 1,711 · **开放 issue**: 1,849 · **贡献者**: 856
 
 ## 累计统计
 
-- **发布数**: 88 · **已合并 PR**: 3222 · **开放 PR**: 37 · **已关闭 issue**: 1807 · **开放 issue**: 40 · **提交数**: 6001
+- **发布数**: 88 · **已合并 PR**: 3223 · **开放 PR**: 38 · **已关闭 issue**: 1807 · **开放 issue**: 42 · **提交数**: 6003
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 1 | 24 | 8 | 3 | 8 | 21 |
-| last60d | 2026-08-09 | 1 | 67 | 14 | 11 | 12 | 66 |
-| 90d | 2026-07-10 | 1 | 124 | 24 | 31 | 17 | 127 |
-| last180d | 2026-04-11 | 3 | 287 | 34 | 76 | 26 | 298 |
-| 360d | 2025-10-13 | 10 | 594 | 36 | 160 | 34 | 612 |
-| last720d | 2024-10-18 | 21 | 1164 | 37 | 315 | 38 | 2091 |
+| 30d | 2026-09-09 | 1 | 25 | 9 | 2 | 10 | 22 |
+| last60d | 2026-08-10 | 1 | 65 | 15 | 10 | 14 | 67 |
+| 90d | 2026-07-11 | 1 | 125 | 25 | 31 | 19 | 128 |
+| last180d | 2026-04-12 | 3 | 282 | 34 | 76 | 28 | 299 |
+| 360d | 2025-10-14 | 10 | 594 | 37 | 160 | 36 | 613 |
+| last720d | 2024-10-19 | 21 | 1165 | 38 | 313 | 40 | 2090 |
 
 ## Release 资产
 
@@ -92,4 +92,4 @@ kubebuilder 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261008.yml` · 2026-10-08T06:41:12Z._
+_数据快照: `data/card/261009.yml` · 2026-10-09T06:35:03Z._

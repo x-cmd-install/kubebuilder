@@ -26,13 +26,13 @@ Total: **148,967** lines of code across **1137** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.7 / 10**
+Overall score: **7.6 / 10**
 
 Lowest-scoring checks:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Vulnerabilities** (1/10) — 9 existing vulnerabilities detected
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.16.0` (2026-09-10)
-- **Last commit**: 2026-10-03
+- **Last commit**: 2026-10-08
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 9,340 · **Forks**: 1,707 · **Open issues**: 1,847 · **Contributors**: 856
+- **Stars**: 9,344 · **Forks**: 1,711 · **Open issues**: 1,849 · **Contributors**: 856
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 3222 · **Open PRs**: 37 · **Closed issues**: 1807 · **Open issues**: 40 · **Commits**: 6001
+- **Releases**: 88 · **Merged PRs**: 3223 · **Open PRs**: 38 · **Closed issues**: 1807 · **Open issues**: 42 · **Commits**: 6003
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 1 | 24 | 8 | 3 | 8 | 21 |
-| last60d | 2026-08-09 | 1 | 67 | 14 | 11 | 12 | 66 |
-| 90d | 2026-07-10 | 1 | 124 | 24 | 31 | 17 | 127 |
-| last180d | 2026-04-11 | 3 | 287 | 34 | 76 | 26 | 298 |
-| 360d | 2025-10-13 | 10 | 594 | 36 | 160 | 34 | 612 |
-| last720d | 2024-10-18 | 21 | 1164 | 37 | 315 | 38 | 2091 |
+| 30d | 2026-09-09 | 1 | 25 | 9 | 2 | 10 | 22 |
+| last60d | 2026-08-10 | 1 | 65 | 15 | 10 | 14 | 67 |
+| 90d | 2026-07-11 | 1 | 125 | 25 | 31 | 19 | 128 |
+| last180d | 2026-04-12 | 3 | 282 | 34 | 76 | 28 | 299 |
+| 360d | 2025-10-14 | 10 | 594 | 37 | 160 | 36 | 613 |
+| last720d | 2024-10-19 | 21 | 1165 | 38 | 313 | 40 | 2090 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for kubebuilder lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:41:11Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:35:02Z._
