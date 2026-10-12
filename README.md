@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 22 | 11 | 2 | 10 | 22 |
-| last60d | 2026-08-12 | 1 | 65 | 17 | 10 | 14 | 67 |
-| 90d | 2026-07-13 | 1 | 122 | 27 | 29 | 19 | 128 |
-| last180d | 2026-04-14 | 3 | 278 | 36 | 74 | 28 | 299 |
-| 360d | 2025-10-16 | 10 | 591 | 39 | 158 | 36 | 613 |
-| last720d | 2024-10-21 | 21 | 1165 | 40 | 313 | 40 | 2090 |
+| 30d | 2026-09-12 | 0 | 21 | 11 | 2 | 10 | 18 |
+| last60d | 2026-08-13 | 1 | 62 | 17 | 10 | 14 | 57 |
+| 90d | 2026-07-14 | 1 | 120 | 27 | 28 | 18 | 113 |
+| last180d | 2026-04-15 | 3 | 273 | 36 | 73 | 28 | 264 |
+| 360d | 2025-10-17 | 10 | 591 | 39 | 158 | 36 | 610 |
+| last720d | 2024-10-22 | 21 | 1161 | 40 | 312 | 40 | 2090 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for kubebuilder lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:05:04Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:25:38Z._
