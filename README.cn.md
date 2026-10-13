@@ -31,8 +31,8 @@ x install kubebuilder
 评分最低的几项:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
 - **Vulnerabilities** (0/10) — 14 existing vulnerabilities detected
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install kubebuilder
 ## 发布
 
 - **最新版本**: `v4.16.0` (2026-09-10)
-- **最近提交**: 2026-10-08
+- **最近提交**: 2026-10-12
 - **Release 含资产**: 13 个
 
 ## 流行度
 
-- **Star**: 9,347 · **Fork**: 1,709 · **开放 issue**: 1,849 · **贡献者**: 856
+- **Star**: 9,349 · **Fork**: 1,709 · **开放 issue**: 1,849 · **贡献者**: 857
 
 ## 累计统计
 
-- **发布数**: 88 · **已合并 PR**: 3223 · **开放 PR**: 40 · **已关闭 issue**: 1807 · **开放 issue**: 42 · **提交数**: 6003
+- **发布数**: 88 · **已合并 PR**: 3225 · **开放 PR**: 38 · **已关闭 issue**: 1807 · **开放 issue**: 42 · **提交数**: 6007
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 21 | 11 | 2 | 10 | 18 |
-| last60d | 2026-08-13 | 1 | 62 | 17 | 10 | 14 | 57 |
-| 90d | 2026-07-14 | 1 | 120 | 27 | 28 | 18 | 113 |
-| last180d | 2026-04-15 | 3 | 273 | 36 | 73 | 28 | 264 |
-| 360d | 2025-10-17 | 10 | 591 | 39 | 158 | 36 | 610 |
-| last720d | 2024-10-22 | 21 | 1161 | 40 | 312 | 40 | 2090 |
+| 30d | 2026-09-13 | 0 | 23 | 10 | 2 | 10 | 20 |
+| last60d | 2026-08-14 | 1 | 63 | 16 | 10 | 12 | 59 |
+| 90d | 2026-07-15 | 1 | 120 | 24 | 27 | 18 | 115 |
+| last180d | 2026-04-16 | 3 | 264 | 34 | 72 | 28 | 266 |
+| 360d | 2025-10-18 | 10 | 593 | 37 | 158 | 36 | 612 |
+| last720d | 2024-10-23 | 20 | 1163 | 38 | 311 | 40 | 2090 |
 
 ## Release 资产
 
@@ -92,4 +92,4 @@ kubebuilder 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261012.yml` · 2026-10-12T06:25:39Z._
+_数据快照: `data/card/261013.yml` · 2026-10-13T07:15:55Z._
