@@ -48,7 +48,7 @@ x install kubebuilder
 
 ## 流行度
 
-- **Star**: 9,352 · **Fork**: 1,710 · **开放 issue**: 1,855 · **贡献者**: 864
+- **Star**: 9,354 · **Fork**: 1,711 · **开放 issue**: 1,855 · **贡献者**: 864
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install kubebuilder
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 36 | 10 | 9 | 7 | 39 |
-| last60d | 2026-08-23 | 1 | 81 | 14 | 19 | 8 | 82 |
-| 90d | 2026-07-24 | 1 | 119 | 21 | 30 | 12 | 122 |
-| last180d | 2026-04-25 | 3 | 280 | 31 | 81 | 22 | 292 |
-| 360d | 2025-10-27 | 10 | 612 | 33 | 169 | 30 | 633 |
-| last720d | 2024-11-01 | 20 | 1158 | 34 | 321 | 34 | 2102 |
+| 30d | 2026-09-23 | 0 | 36 | 10 | 9 | 7 | 39 |
+| last60d | 2026-08-24 | 1 | 77 | 14 | 19 | 8 | 82 |
+| 90d | 2026-07-25 | 1 | 118 | 19 | 30 | 11 | 122 |
+| last180d | 2026-04-26 | 3 | 280 | 31 | 81 | 22 | 292 |
+| 360d | 2025-10-28 | 10 | 610 | 33 | 169 | 30 | 633 |
+| last720d | 2024-11-02 | 20 | 1156 | 34 | 320 | 34 | 2099 |
 
 ## Release 资产
 
@@ -83,6 +83,15 @@ x install kubebuilder
 | [kubebuilder_linux_ppc64le](https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/kubebuilder_linux_ppc64le) | 17.2 MiB | `other` |
 | [kubebuilder_linux_s390x](https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/kubebuilder_linux_s390x) | 18.1 MiB | `other` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/kubebuilder) 上共有 **58** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `4.16.0` | ✅ latest |
+| Nix unstable | `4.15.0` | ⚠️ outdated |
+
 ## 改进这些数据
 
 kubebuilder 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `kubebuilder` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -92,4 +101,4 @@ kubebuilder 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:13:36Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:08:29Z._

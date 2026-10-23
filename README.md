@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,352 · **Forks**: 1,710 · **Open issues**: 1,855 · **Contributors**: 864
+- **Stars**: 9,354 · **Forks**: 1,711 · **Open issues**: 1,855 · **Contributors**: 864
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 36 | 10 | 9 | 7 | 39 |
-| last60d | 2026-08-23 | 1 | 81 | 14 | 19 | 8 | 82 |
-| 90d | 2026-07-24 | 1 | 119 | 21 | 30 | 12 | 122 |
-| last180d | 2026-04-25 | 3 | 280 | 31 | 81 | 22 | 292 |
-| 360d | 2025-10-27 | 10 | 612 | 33 | 169 | 30 | 633 |
-| last720d | 2024-11-01 | 20 | 1158 | 34 | 321 | 34 | 2102 |
+| 30d | 2026-09-23 | 0 | 36 | 10 | 9 | 7 | 39 |
+| last60d | 2026-08-24 | 1 | 77 | 14 | 19 | 8 | 82 |
+| 90d | 2026-07-25 | 1 | 118 | 19 | 30 | 11 | 122 |
+| last180d | 2026-04-26 | 3 | 280 | 31 | 81 | 22 | 292 |
+| 360d | 2025-10-28 | 10 | 610 | 33 | 169 | 30 | 633 |
+| last720d | 2024-11-02 | 20 | 1156 | 34 | 320 | 34 | 2099 |
 
 ## Release assets
 
@@ -83,6 +83,15 @@ Lowest-scoring checks:
 | [kubebuilder_linux_ppc64le](https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/kubebuilder_linux_ppc64le) | 17.2 MiB | `other` |
 | [kubebuilder_linux_s390x](https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/kubebuilder_linux_s390x) | 18.1 MiB | `other` |
 
+## Distribution status
+
+Reported by **58** distros on [repology.org](https://repology.org/project/kubebuilder). **4** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `4.16.0` | ✅ latest |
+| Nix unstable | `4.15.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for kubebuilder lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kubebuilder` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -92,4 +101,4 @@ Install metadata for kubebuilder lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:13:35Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:08:28Z._
