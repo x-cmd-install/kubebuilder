@@ -31,7 +31,7 @@ x install kubebuilder
 评分最低的几项:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Fuzzing** (0/10) — project is not fuzzed
 - **Vulnerabilities** (0/10) — 14 existing vulnerabilities detected
 
 ## 源代码
@@ -43,27 +43,27 @@ x install kubebuilder
 ## 发布
 
 - **最新版本**: `v4.16.0` (2026-09-10)
-- **最近提交**: 2026-10-20
+- **最近提交**: 2026-10-24
 - **Release 含资产**: 13 个
 
 ## 流行度
 
-- **Star**: 9,352 · **Fork**: 1,711 · **开放 issue**: 1,855 · **贡献者**: 864
+- **Star**: 9,353 · **Fork**: 1,711 · **开放 issue**: 1,855 · **贡献者**: 864
 
 ## 累计统计
 
-- **发布数**: 88 · **已合并 PR**: 3251 · **开放 PR**: 35 · **已关闭 issue**: 1819 · **开放 issue**: 36 · **提交数**: 6059
+- **发布数**: 88 · **已合并 PR**: 3254 · **开放 PR**: 32 · **已关闭 issue**: 1819 · **开放 issue**: 36 · **提交数**: 6065
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 36 | 11 | 9 | 7 | 39 |
-| last60d | 2026-08-25 | 1 | 76 | 15 | 19 | 8 | 82 |
-| 90d | 2026-07-26 | 1 | 118 | 20 | 30 | 11 | 122 |
-| last180d | 2026-04-27 | 3 | 280 | 32 | 81 | 22 | 292 |
-| 360d | 2025-10-29 | 10 | 609 | 34 | 169 | 30 | 633 |
-| last720d | 2024-11-03 | 20 | 1156 | 35 | 319 | 34 | 2095 |
+| 30d | 2026-09-25 | 0 | 39 | 8 | 9 | 7 | 42 |
+| last60d | 2026-08-26 | 1 | 79 | 12 | 19 | 8 | 85 |
+| 90d | 2026-07-27 | 1 | 119 | 17 | 29 | 11 | 125 |
+| last180d | 2026-04-28 | 3 | 277 | 29 | 81 | 22 | 295 |
+| 360d | 2025-10-30 | 10 | 609 | 31 | 168 | 29 | 636 |
+| last720d | 2024-11-04 | 20 | 1158 | 32 | 319 | 34 | 2101 |
 
 ## Release 资产
 
@@ -101,4 +101,4 @@ kubebuilder 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261024.yml` · 2026-10-24T04:54:25Z._
+_数据快照: `data/card/261025.yml` · 2026-10-25T04:59:26Z._

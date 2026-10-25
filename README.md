@@ -31,7 +31,7 @@ Overall score: **7.5 / 10**
 Lowest-scoring checks:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Fuzzing** (0/10) — project is not fuzzed
 - **Vulnerabilities** (0/10) — 14 existing vulnerabilities detected
 
 ## Source
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.16.0` (2026-09-10)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-24
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 9,352 · **Forks**: 1,711 · **Open issues**: 1,855 · **Contributors**: 864
+- **Stars**: 9,353 · **Forks**: 1,711 · **Open issues**: 1,855 · **Contributors**: 864
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 3251 · **Open PRs**: 35 · **Closed issues**: 1819 · **Open issues**: 36 · **Commits**: 6059
+- **Releases**: 88 · **Merged PRs**: 3254 · **Open PRs**: 32 · **Closed issues**: 1819 · **Open issues**: 36 · **Commits**: 6065
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 36 | 11 | 9 | 7 | 39 |
-| last60d | 2026-08-25 | 1 | 76 | 15 | 19 | 8 | 82 |
-| 90d | 2026-07-26 | 1 | 118 | 20 | 30 | 11 | 122 |
-| last180d | 2026-04-27 | 3 | 280 | 32 | 81 | 22 | 292 |
-| 360d | 2025-10-29 | 10 | 609 | 34 | 169 | 30 | 633 |
-| last720d | 2024-11-03 | 20 | 1156 | 35 | 319 | 34 | 2095 |
+| 30d | 2026-09-25 | 0 | 39 | 8 | 9 | 7 | 42 |
+| last60d | 2026-08-26 | 1 | 79 | 12 | 19 | 8 | 85 |
+| 90d | 2026-07-27 | 1 | 119 | 17 | 29 | 11 | 125 |
+| last180d | 2026-04-28 | 3 | 277 | 29 | 81 | 22 | 295 |
+| 360d | 2025-10-30 | 10 | 609 | 31 | 168 | 29 | 636 |
+| last720d | 2024-11-04 | 20 | 1158 | 32 | 319 | 34 | 2101 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for kubebuilder lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:54:24Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T04:59:25Z._
