@@ -14,15 +14,15 @@ x install kubebuilder
 
 ## Code insight
 
-Total: **150,751** lines of code across **1126** files in the top 5 languages.
+Total: **152,876** lines of code across **1127** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 85,350 | 22,738 | 16,480 | 663 |
+| Go | 87,475 | 22,855 | 16,880 | 664 |
 | Yaml | 59,620 | 2,178 | 460 | 426 |
 | Json | 2,408 | 0 | 0 | 4 |
 | Makefile | 1,376 | 414 | 390 | 9 |
-| Sh | 734 | 512 | 228 | 24 |
+| Sh | 734 | 514 | 228 | 24 |
 
 ## OpenSSF Scorecard
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 3265 · **Open PRs**: 33 · **Closed issues**: 1821 · **Open issues**: 35 · **Commits**: 6088
+- **Releases**: 88 · **Merged PRs**: 3270 · **Open PRs**: 32 · **Closed issues**: 1822 · **Open issues**: 34 · **Commits**: 6099
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 44 | 8 | 8 | 5 | 47 |
-| last60d | 2026-08-29 | 1 | 86 | 12 | 20 | 6 | 83 |
-| 90d | 2026-07-30 | 1 | 129 | 18 | 30 | 10 | 128 |
-| last180d | 2026-05-01 | 2 | 282 | 29 | 82 | 21 | 295 |
-| 360d | 2025-11-02 | 10 | 610 | 32 | 170 | 28 | 630 |
-| last720d | 2024-11-07 | 20 | 1164 | 33 | 315 | 32 | 2120 |
+| 30d | 2026-09-29 | 0 | 47 | 9 | 8 | 5 | 52 |
+| last60d | 2026-08-30 | 1 | 90 | 11 | 20 | 5 | 88 |
+| 90d | 2026-07-31 | 1 | 130 | 17 | 28 | 9 | 133 |
+| last180d | 2026-05-02 | 2 | 286 | 28 | 83 | 20 | 301 |
+| 360d | 2025-11-03 | 10 | 615 | 31 | 171 | 27 | 636 |
+| last720d | 2024-11-08 | 20 | 1166 | 32 | 315 | 31 | 2129 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for kubebuilder lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:08:33Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:08:49Z._
