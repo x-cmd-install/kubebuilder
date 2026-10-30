@@ -31,8 +31,8 @@ Overall score: **7.5 / 10**
 Lowest-scoring checks:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Vulnerabilities** (0/10) — 16 existing vulnerabilities detected
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Vulnerabilities** (0/10) — 16 existing vulnerabilities detected
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.16.0` (2026-09-10)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-10-29
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 9,356 · **Forks**: 1,714 · **Open issues**: 1,856 · **Contributors**: 866
+- **Stars**: 9,357 · **Forks**: 1,715 · **Open issues**: 1,858 · **Contributors**: 866
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 3270 · **Open PRs**: 32 · **Closed issues**: 1822 · **Open issues**: 34 · **Commits**: 6099
+- **Releases**: 88 · **Merged PRs**: 3272 · **Open PRs**: 31 · **Closed issues**: 1824 · **Open issues**: 34 · **Commits**: 6103
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 47 | 9 | 8 | 5 | 52 |
-| last60d | 2026-08-30 | 1 | 90 | 11 | 20 | 5 | 88 |
-| 90d | 2026-07-31 | 1 | 130 | 17 | 28 | 9 | 133 |
-| last180d | 2026-05-02 | 2 | 286 | 28 | 83 | 20 | 301 |
-| 360d | 2025-11-03 | 10 | 615 | 31 | 171 | 27 | 636 |
-| last720d | 2024-11-08 | 20 | 1166 | 32 | 315 | 31 | 2129 |
+| 30d | 2026-09-30 | 0 | 48 | 8 | 10 | 5 | 54 |
+| last60d | 2026-08-31 | 1 | 84 | 10 | 22 | 5 | 90 |
+| 90d | 2026-08-01 | 1 | 129 | 16 | 30 | 9 | 135 |
+| last180d | 2026-05-03 | 2 | 288 | 27 | 85 | 20 | 303 |
+| 360d | 2025-11-04 | 10 | 616 | 30 | 172 | 27 | 638 |
+| last720d | 2024-11-09 | 20 | 1165 | 31 | 316 | 31 | 2127 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for kubebuilder lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:08:49Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:08:15Z._
