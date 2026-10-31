@@ -14,14 +14,14 @@ x install kubebuilder
 
 ## 代码洞察
 
-合计: **152,876** 行代码（覆盖前 5 种语言、共 **1127** 个文件）。
+合计: **152,912** 行代码（覆盖前 5 种语言、共 **1129** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 87,475 | 22,855 | 16,880 | 664 |
+| Go | 87,503 | 22,929 | 16,898 | 666 |
 | Yaml | 59,620 | 2,178 | 460 | 426 |
 | Json | 2,408 | 0 | 0 | 4 |
-| Makefile | 1,376 | 414 | 390 | 9 |
+| Makefile | 1,384 | 429 | 392 | 9 |
 | Sh | 734 | 514 | 228 | 24 |
 
 ## OpenSSF Scorecard 评分
@@ -31,8 +31,8 @@ x install kubebuilder
 评分最低的几项:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 - **Vulnerabilities** (0/10) — 16 existing vulnerabilities detected
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install kubebuilder
 ## 发布
 
 - **最新版本**: `v4.16.0` (2026-09-10)
-- **最近提交**: 2026-10-29
+- **最近提交**: 2026-10-30
 - **Release 含资产**: 13 个
 
 ## 流行度
 
-- **Star**: 9,357 · **Fork**: 1,715 · **开放 issue**: 1,858 · **贡献者**: 866
+- **Star**: 9,358 · **Fork**: 1,715 · **开放 issue**: 1,859 · **贡献者**: 867
 
 ## 累计统计
 
-- **发布数**: 88 · **已合并 PR**: 3272 · **开放 PR**: 31 · **已关闭 issue**: 1824 · **开放 issue**: 34 · **提交数**: 6103
+- **发布数**: 88 · **已合并 PR**: 3275 · **开放 PR**: 31 · **已关闭 issue**: 1825 · **开放 issue**: 34 · **提交数**: 6108
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 48 | 8 | 10 | 5 | 54 |
-| last60d | 2026-08-31 | 1 | 84 | 10 | 22 | 5 | 90 |
-| 90d | 2026-08-01 | 1 | 129 | 16 | 30 | 9 | 135 |
-| last180d | 2026-05-03 | 2 | 288 | 27 | 85 | 20 | 303 |
-| 360d | 2025-11-04 | 10 | 616 | 30 | 172 | 27 | 638 |
-| last720d | 2024-11-09 | 20 | 1165 | 31 | 316 | 31 | 2127 |
+| 30d | 2026-10-01 | 0 | 51 | 8 | 10 | 5 | 57 |
+| last60d | 2026-09-01 | 1 | 86 | 9 | 22 | 5 | 93 |
+| 90d | 2026-08-02 | 1 | 132 | 16 | 31 | 9 | 138 |
+| last180d | 2026-05-04 | 2 | 291 | 27 | 86 | 20 | 306 |
+| 360d | 2025-11-05 | 10 | 618 | 30 | 173 | 27 | 641 |
+| last720d | 2024-11-10 | 19 | 1164 | 31 | 316 | 31 | 2122 |
 
 ## Release 资产
 
@@ -101,4 +101,4 @@ kubebuilder 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261030.yml` · 2026-10-30T06:08:16Z._
+_数据快照: `data/card/261031.yml` · 2026-10-31T06:00:16Z._
