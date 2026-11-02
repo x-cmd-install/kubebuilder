@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 3275 · **Open PRs**: 31 · **Closed issues**: 1825 · **Open issues**: 34 · **Commits**: 6108
+- **Releases**: 88 · **Merged PRs**: 3275 · **Open PRs**: 33 · **Closed issues**: 1825 · **Open issues**: 34 · **Commits**: 6108
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 46 | 8 | 10 | 5 | 57 |
-| last60d | 2026-09-02 | 1 | 85 | 9 | 22 | 5 | 93 |
-| 90d | 2026-08-03 | 1 | 129 | 16 | 31 | 9 | 138 |
-| last180d | 2026-05-05 | 2 | 291 | 27 | 86 | 20 | 306 |
-| 360d | 2025-11-06 | 10 | 618 | 30 | 173 | 27 | 641 |
-| last720d | 2024-11-11 | 19 | 1162 | 31 | 315 | 31 | 2113 |
+| 30d | 2026-10-03 | 0 | 46 | 10 | 10 | 5 | 49 |
+| last60d | 2026-09-03 | 1 | 83 | 10 | 21 | 5 | 76 |
+| 90d | 2026-08-04 | 1 | 128 | 17 | 30 | 8 | 124 |
+| last180d | 2026-05-06 | 2 | 290 | 29 | 85 | 20 | 297 |
+| 360d | 2025-11-07 | 10 | 618 | 32 | 171 | 27 | 624 |
+| last720d | 2024-11-12 | 19 | 1162 | 33 | 315 | 31 | 2110 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for kubebuilder lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:30:24Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:34:30Z._
