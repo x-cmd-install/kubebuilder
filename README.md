@@ -31,8 +31,8 @@ Overall score: **7.5 / 10**
 Lowest-scoring checks:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Vulnerabilities** (0/10) — 16 existing vulnerabilities detected
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
-- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.16.0` (2026-09-10)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-03
 - **Assets in release**: 13
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 3276 · **Open PRs**: 36 · **Closed issues**: 1825 · **Open issues**: 35 · **Commits**: 6110
+- **Releases**: 88 · **Merged PRs**: 3278 · **Open PRs**: 36 · **Closed issues**: 1825 · **Open issues**: 35 · **Commits**: 6114
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 47 | 13 | 10 | 6 | 50 |
-| last60d | 2026-09-04 | 1 | 84 | 13 | 20 | 6 | 77 |
-| 90d | 2026-08-05 | 1 | 129 | 20 | 30 | 9 | 125 |
-| last180d | 2026-05-07 | 2 | 290 | 32 | 84 | 21 | 298 |
-| 360d | 2025-11-08 | 10 | 618 | 35 | 171 | 28 | 625 |
-| last720d | 2024-11-13 | 19 | 1161 | 36 | 315 | 32 | 2111 |
+| 30d | 2026-10-05 | 0 | 46 | 13 | 10 | 6 | 52 |
+| last60d | 2026-09-05 | 1 | 86 | 13 | 18 | 6 | 79 |
+| 90d | 2026-08-06 | 1 | 124 | 20 | 29 | 9 | 127 |
+| last180d | 2026-05-08 | 2 | 286 | 32 | 84 | 21 | 300 |
+| 360d | 2025-11-09 | 10 | 617 | 35 | 171 | 28 | 627 |
+| last720d | 2024-11-14 | 19 | 1163 | 36 | 315 | 32 | 2111 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for kubebuilder lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:17:22Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:46:20Z._
