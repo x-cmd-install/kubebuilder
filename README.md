@@ -31,8 +31,8 @@ Overall score: **7.5 / 10**
 Lowest-scoring checks:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 - **Vulnerabilities** (0/10) — 16 existing vulnerabilities detected
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.16.0` (2026-09-10)
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-06
 - **Assets in release**: 13
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 3280 · **Open PRs**: 37 · **Closed issues**: 1825 · **Open issues**: 35 · **Commits**: 6117
+- **Releases**: 88 · **Merged PRs**: 3283 · **Open PRs**: 39 · **Closed issues**: 1825 · **Open issues**: 35 · **Commits**: 6123
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 47 | 14 | 8 | 5 | 54 |
-| last60d | 2026-09-07 | 1 | 83 | 14 | 18 | 6 | 81 |
-| 90d | 2026-08-08 | 1 | 122 | 19 | 27 | 9 | 129 |
-| last180d | 2026-05-10 | 2 | 286 | 32 | 84 | 21 | 302 |
-| 360d | 2025-11-11 | 10 | 613 | 36 | 171 | 28 | 629 |
-| last720d | 2024-11-16 | 19 | 1161 | 37 | 313 | 32 | 2109 |
+| 30d | 2026-10-08 | 0 | 50 | 15 | 7 | 4 | 57 |
+| last60d | 2026-09-08 | 1 | 81 | 16 | 18 | 6 | 84 |
+| 90d | 2026-08-09 | 1 | 125 | 21 | 27 | 9 | 132 |
+| last180d | 2026-05-11 | 2 | 289 | 34 | 84 | 21 | 305 |
+| 360d | 2025-11-12 | 10 | 611 | 38 | 171 | 28 | 632 |
+| last720d | 2024-11-17 | 19 | 1163 | 39 | 313 | 32 | 2114 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for kubebuilder lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:16:45Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:19:39Z._
