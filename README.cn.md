@@ -31,8 +31,8 @@ x install kubebuilder
 评分最低的几项:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Vulnerabilities** (0/10) — 17 existing vulnerabilities detected
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 
 ## 源代码
 
@@ -43,7 +43,7 @@ x install kubebuilder
 ## 发布
 
 - **最新版本**: `v4.16.0` (2026-09-10)
-- **最近提交**: 2026-11-19
+- **最近提交**: 2026-11-20
 - **Release 含资产**: 13 个
 
 ## 流行度
@@ -52,18 +52,18 @@ x install kubebuilder
 
 ## 累计统计
 
-- **发布数**: 88 · **已合并 PR**: 3308 · **开放 PR**: 25 · **已关闭 issue**: 1829 · **开放 issue**: 40 · **提交数**: 6175
+- **发布数**: 88 · **已合并 PR**: 3309 · **开放 PR**: 26 · **已关闭 issue**: 1829 · **开放 issue**: 40 · **提交数**: 6177
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 47 | 13 | 6 | 8 | 0 |
-| last60d | 2026-09-21 | 0 | 88 | 16 | 18 | 12 | 0 |
-| 90d | 2026-08-22 | 1 | 134 | 16 | 28 | 13 | 0 |
-| last180d | 2026-05-24 | 2 | 294 | 24 | 86 | 27 | 0 |
-| 360d | 2025-11-25 | 8 | 604 | 24 | 163 | 33 | 0 |
-| last720d | 2024-11-30 | 19 | 1137 | 25 | 311 | 37 | 2084 |
+| 30d | 2026-10-22 | 0 | 48 | 14 | 6 | 8 | 50 |
+| last60d | 2026-09-22 | 0 | 89 | 17 | 18 | 12 | 99 |
+| 90d | 2026-08-23 | 1 | 135 | 17 | 28 | 13 | 147 |
+| last180d | 2026-05-25 | 2 | 295 | 25 | 86 | 27 | 320 |
+| 360d | 2025-11-26 | 8 | 605 | 25 | 163 | 33 | 636 |
+| last720d | 2024-12-01 | 19 | 1136 | 26 | 311 | 37 | 2085 |
 
 ## Release 资产
 
@@ -101,4 +101,4 @@ kubebuilder 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261120.yml` · 2026-11-20T09:07:45Z._
+_数据快照: `data/card/261121.yml` · 2026-11-21T07:59:39Z._
