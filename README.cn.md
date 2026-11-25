@@ -14,12 +14,12 @@ x install kubebuilder
 
 ## 代码洞察
 
-合计: **155,488** 行代码（覆盖前 5 种语言、共 **1133** 个文件）。
+合计: **156,523** 行代码（覆盖前 5 种语言、共 **1133** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 90,030 | 23,233 | 17,272 | 670 |
-| Yaml | 59,620 | 2,178 | 458 | 426 |
+| Go | 91,011 | 23,303 | 17,392 | 670 |
+| Yaml | 59,674 | 2,210 | 466 | 426 |
 | Json | 2,408 | 0 | 0 | 4 |
 | Makefile | 1,433 | 440 | 404 | 9 |
 | Sh | 734 | 514 | 228 | 24 |
@@ -31,8 +31,8 @@ x install kubebuilder
 评分最低的几项:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 - **Vulnerabilities** (0/10) — 17 existing vulnerabilities detected
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install kubebuilder
 ## 发布
 
 - **最新版本**: `v4.16.0` (2026-09-10)
-- **最近提交**: 2026-11-20
+- **最近提交**: 2026-11-25
 - **Release 含资产**: 13 个
 
 ## 流行度
 
-- **Star**: 9,381 · **Fork**: 1,721 · **开放 issue**: 1,869 · **贡献者**: 883
+- **Star**: 9,380 · **Fork**: 1,721 · **开放 issue**: 1,871 · **贡献者**: 884
 
 ## 累计统计
 
-- **发布数**: 88 · **已合并 PR**: 3309 · **开放 PR**: 30 · **已关闭 issue**: 1829 · **开放 issue**: 40 · **提交数**: 6177
+- **发布数**: 88 · **已合并 PR**: 3317 · **开放 PR**: 23 · **已关闭 issue**: 1830 · **开放 issue**: 41 · **提交数**: 6197
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 46 | 18 | 6 | 8 | 32 |
-| last60d | 2026-09-25 | 0 | 89 | 21 | 18 | 12 | 90 |
-| 90d | 2026-08-26 | 1 | 130 | 21 | 28 | 13 | 136 |
-| last180d | 2026-05-28 | 2 | 295 | 29 | 86 | 27 | 316 |
-| 360d | 2025-11-29 | 8 | 605 | 29 | 161 | 33 | 635 |
-| last720d | 2024-12-04 | 19 | 1133 | 30 | 310 | 37 | 2079 |
+| 30d | 2026-10-26 | 0 | 47 | 11 | 7 | 9 | 44 |
+| last60d | 2026-09-26 | 0 | 97 | 14 | 18 | 13 | 102 |
+| 90d | 2026-08-27 | 1 | 137 | 14 | 28 | 14 | 148 |
+| last180d | 2026-05-29 | 2 | 302 | 22 | 86 | 28 | 328 |
+| 360d | 2025-11-30 | 8 | 613 | 22 | 162 | 34 | 647 |
+| last720d | 2024-12-05 | 19 | 1141 | 23 | 310 | 38 | 2098 |
 
 ## Release 资产
 
@@ -83,15 +83,6 @@ x install kubebuilder
 | [kubebuilder_linux_ppc64le](https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/kubebuilder_linux_ppc64le) | 17.2 MiB | `other` |
 | [kubebuilder_linux_s390x](https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/kubebuilder_linux_s390x) | 18.1 MiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/kubebuilder) 上共有 **58** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `4.16.0` | ✅ latest |
-| Nix unstable | `4.15.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 kubebuilder 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `kubebuilder` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -101,4 +92,4 @@ kubebuilder 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:15:14Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:59:41Z._

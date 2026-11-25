@@ -14,12 +14,12 @@ x install kubebuilder
 
 ## Code insight
 
-Total: **155,488** lines of code across **1133** files in the top 5 languages.
+Total: **156,523** lines of code across **1133** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 90,030 | 23,233 | 17,272 | 670 |
-| Yaml | 59,620 | 2,178 | 458 | 426 |
+| Go | 91,011 | 23,303 | 17,392 | 670 |
+| Yaml | 59,674 | 2,210 | 466 | 426 |
 | Json | 2,408 | 0 | 0 | 4 |
 | Makefile | 1,433 | 440 | 404 | 9 |
 | Sh | 734 | 514 | 228 | 24 |
@@ -31,8 +31,8 @@ Overall score: **7.5 / 10**
 Lowest-scoring checks:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 - **Vulnerabilities** (0/10) — 17 existing vulnerabilities detected
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.16.0` (2026-09-10)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-25
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 9,381 · **Forks**: 1,721 · **Open issues**: 1,869 · **Contributors**: 883
+- **Stars**: 9,380 · **Forks**: 1,721 · **Open issues**: 1,871 · **Contributors**: 884
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 3309 · **Open PRs**: 30 · **Closed issues**: 1829 · **Open issues**: 40 · **Commits**: 6177
+- **Releases**: 88 · **Merged PRs**: 3317 · **Open PRs**: 23 · **Closed issues**: 1830 · **Open issues**: 41 · **Commits**: 6197
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 46 | 18 | 6 | 8 | 32 |
-| last60d | 2026-09-25 | 0 | 89 | 21 | 18 | 12 | 90 |
-| 90d | 2026-08-26 | 1 | 130 | 21 | 28 | 13 | 136 |
-| last180d | 2026-05-28 | 2 | 295 | 29 | 86 | 27 | 316 |
-| 360d | 2025-11-29 | 8 | 605 | 29 | 161 | 33 | 635 |
-| last720d | 2024-12-04 | 19 | 1133 | 30 | 310 | 37 | 2079 |
+| 30d | 2026-10-26 | 0 | 47 | 11 | 7 | 9 | 44 |
+| last60d | 2026-09-26 | 0 | 97 | 14 | 18 | 13 | 102 |
+| 90d | 2026-08-27 | 1 | 137 | 14 | 28 | 14 | 148 |
+| last180d | 2026-05-29 | 2 | 302 | 22 | 86 | 28 | 328 |
+| 360d | 2025-11-30 | 8 | 613 | 22 | 162 | 34 | 647 |
+| last720d | 2024-12-05 | 19 | 1141 | 23 | 310 | 38 | 2098 |
 
 ## Release assets
 
@@ -83,15 +83,6 @@ Lowest-scoring checks:
 | [kubebuilder_linux_ppc64le](https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/kubebuilder_linux_ppc64le) | 17.2 MiB | `other` |
 | [kubebuilder_linux_s390x](https://github.com/kubernetes-sigs/kubebuilder/releases/download/v4.16.0/kubebuilder_linux_s390x) | 18.1 MiB | `other` |
 
-## Distribution status
-
-Reported by **58** distros on [repology.org](https://repology.org/project/kubebuilder). **4** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `4.16.0` | ✅ latest |
-| Nix unstable | `4.15.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for kubebuilder lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kubebuilder` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -101,4 +92,4 @@ Install metadata for kubebuilder lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:15:13Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:59:40Z._
