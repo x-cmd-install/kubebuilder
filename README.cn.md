@@ -31,7 +31,7 @@ x install kubebuilder
 评分最低的几项:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Vulnerabilities** (0/10) — 17 existing vulnerabilities detected
+- **Fuzzing** (0/10) — project is not fuzzed
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
@@ -43,27 +43,27 @@ x install kubebuilder
 ## 发布
 
 - **最新版本**: `v4.16.0` (2026-09-10)
-- **最近提交**: 2026-11-26
+- **最近提交**: 2026-11-27
 - **Release 含资产**: 13 个
 
 ## 流行度
 
-- **Star**: 9,384 · **Fork**: 1,723 · **开放 issue**: 1,872 · **贡献者**: 884
+- **Star**: 9,384 · **Fork**: 1,721 · **开放 issue**: 1,872 · **贡献者**: 885
 
 ## 累计统计
 
-- **发布数**: 88 · **已合并 PR**: 3318 · **开放 PR**: 24 · **已关闭 issue**: 1830 · **开放 issue**: 42 · **提交数**: 6199
+- **发布数**: 88 · **已合并 PR**: 3320 · **开放 PR**: 24 · **已关闭 issue**: 1830 · **开放 issue**: 42 · **提交数**: 6203
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 47 | 12 | 6 | 10 | 45 |
-| last60d | 2026-09-27 | 0 | 98 | 15 | 15 | 14 | 103 |
-| 90d | 2026-08-28 | 1 | 136 | 15 | 28 | 15 | 149 |
-| last180d | 2026-05-30 | 2 | 302 | 23 | 86 | 29 | 329 |
-| 360d | 2025-12-01 | 8 | 613 | 23 | 162 | 35 | 648 |
-| last720d | 2024-12-06 | 19 | 1141 | 24 | 309 | 39 | 2099 |
+| 30d | 2026-10-28 | 0 | 43 | 12 | 6 | 10 | 0 |
+| last60d | 2026-09-28 | 0 | 94 | 15 | 15 | 14 | 0 |
+| 90d | 2026-08-29 | 1 | 137 | 15 | 28 | 14 | 0 |
+| last180d | 2026-05-31 | 2 | 304 | 23 | 86 | 29 | 0 |
+| 360d | 2025-12-02 | 8 | 615 | 23 | 162 | 35 | 0 |
+| last720d | 2024-12-07 | 19 | 1143 | 24 | 309 | 39 | 2098 |
 
 ## Release 资产
 
@@ -92,4 +92,4 @@ kubebuilder 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T08:55:24Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T09:40:37Z._
